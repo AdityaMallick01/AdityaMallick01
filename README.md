@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=300&section=header&text=ADITYA%20MALLICK&fontSize=70&fontColor=00f5ff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20IoT%20Architect&descAlignY=65&descSize=18&animation=twinkling&stroke=7c3aed&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:020010,40:0d0030,100:020010&height=240&section=header&text=ADITYA%20MALLICK&fontSize=72&fontColor=00f5ff&fontAlignY=52&fontAlign=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20IoT%20Architect&descAlignY=70&descAlign=38&descSize=17&animation=twinkling&stroke=7c3aed&strokeWidth=3)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=🤖+Building+AI-powered+systems...;⚙️+Engineering+Spring+Boot+backends...;🦾+Automating+with+Raspberry+Pi+%2B+OpenCV...;🌐+Crafting+REST+APIs+%26+microservices...;🔬+Exploring+Computer+Vision+%26+ML...;🚀+Full+Stack+%2B+AI+Engineer+in+the+making...)](https://git.io/typing-svg)
 
@@ -105,9 +105,6 @@ status      : 🟢 Open to Internships
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-
-<!-- SKILL ICONS ROW — like your friend's but more complete -->
 ### ◈ SKILL ICONS
 <img src="https://skillicons.dev/icons?i=java,python,js,spring,flask,django,mysql,opencv,raspberrypi,linux,git,github,vscode,tensorflow,numpy&theme=dark&perline=8" />
 
@@ -206,11 +203,10 @@ status      : 🟢 Open to Internships
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdityaMallick01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaMallick01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
 </td>
-
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdityaMallick01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=94a3b8&border_radius=10&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMallick01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=94a3b8&border_radius=10&langs_count=8" height="180"/>
 </td>
 </tr>
 </table>
@@ -223,13 +219,12 @@ status      : 🟢 Open to Internships
 
 <br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION — the coolest element from your friend's profile -->
 ## 🐍 CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -360,6 +355,6 @@ print(aditya)
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00f5ff&fontAlignY=65&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00f5ff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=twinkling)
 
 </div>
