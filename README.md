@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- HERO BANNER via capsule-render (fully GitHub compatible) -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=300&section=header&text=ADITYA%20MALLICK&fontSize=70&fontColor=00f5ff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20IoT%20Architect&descAlignY=65&descSize=18&animation=twinkling&stroke=7c3aed&strokeWidth=2)
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=🤖+Building+AI-powered+systems...;⚙️+Engineering+Spring+Boot+backends...;🦾+Automating+with+Raspberry+Pi+%2B+OpenCV...;🌐+Crafting+REST+APIs+%26+microservices...;🔬+Exploring+Computer+Vision+%26+ML...;🚀+Full+Stack+%2B+AI+Engineer+in+the+making...)](https://git.io/typing-svg)
 
 <br>
@@ -141,7 +139,7 @@ status      : 🟢 Open to Internships
 - ⚙️ Calibrated load cell with 24-bit ADC for precision weight sensing
 - 🦾 Automated 6-DOF pick-and-place robotic arm via I²C protocol
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01)
+[![View Project](https://img.shields.io/badge/Automated--Object--Sorter-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01/Automated-Object-Sorter)
 
 ---
 
@@ -169,7 +167,7 @@ status      : 🟢 Open to Internships
 - 🔄 Bidirectional motor control with direction switching
 - 🛡️ Stable remote navigation with responsive web controls
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01)
+[![View Project](https://img.shields.io/badge/Surveillance--Robot-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01/Surveillance-Robot-Pi)
 
 ---
 
@@ -193,11 +191,11 @@ status      : 🟢 Open to Internships
 ```
 
 - 🔗 Many-to-Many student-course relationship with join table
-- 📑 Full **CRUD + pagination + search** implementation
+- 📑 Full **CRUD + pagination + search** via Spring Data JPA + Swagger docs
 - 🏗️ DTO pattern cleanly separating entity from API response layer
 - 🔒 Data exposure prevention via response projection
 
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01)
+[![View Project](https://img.shields.io/badge/student--management--api-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01/student-management-api)
 
 ---
 
@@ -205,14 +203,20 @@ status      : 🟢 Open to Internships
 
 ## 📈 GITHUB ANALYTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaMallick01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMallick01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=94a3b8&border_radius=10&langs_count=8"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaMallick01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMallick01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=94a3b8&border_radius=10&langs_count=8" height="180"/>
+</td>
+</tr>
+</table>
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=AdityaMallick01&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff&sideLabels=94a3b8&border_radius=10" width="600"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMallick01&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff&sideLabels=94a3b8&border_radius=10" width="600"/>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMallick01&bg_color=0d1117&color=00f5ff&line=7c3aed&point=a855f7&area=true&hide_border=true" width="750"/>
 
@@ -329,10 +333,10 @@ print(aditya)
 
 ## 🌐 ESTABLISH CONNECTION
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityamallick01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mallick-b76a64376)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamallick002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/AdityaMallick01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://adityamallick01.github.io/aditya-mallick-portfolio/)
 
 <br>
 
