@@ -105,6 +105,12 @@ status      : 🟢 Open to Internships
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+
+<!-- SKILL ICONS ROW — like your friend's but more complete -->
+### ◈ SKILL ICONS
+<img src="https://skillicons.dev/icons?i=java,python,js,spring,flask,django,mysql,opencv,raspberrypi,linux,git,github,vscode,tensorflow,numpy&theme=dark&perline=8" />
+
 </div>
 
 ---
@@ -121,15 +127,13 @@ status      : 🟢 Open to Internships
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  INTELLIGENT OBJECT SORTING SYSTEM              STATUS: ONLINE   ║
-║  ───────────────────────────────────────────────────────────── ║
-║                                                                   ║
+║  ─────────────────────────────────────────────────────────────  ║
 ║  SUBSYSTEMS:                                                      ║
 ║  ├─ 📷  PiCamera2      →  Real-time object capture               ║
 ║  ├─ 🧠  OpenCV         →  Shape detection + classification        ║
 ║  ├─ ⚖️   HX711 (ADC)   →  24-bit precision weight sensing        ║
 ║  ├─ 🦾  PCA9685 (I2C)  →  6-DOF robotic arm control             ║
 ║  └─ 🍓  Raspberry Pi   →  Central control unit                   ║
-║                                                                   ║
 ║  STACK: Python · OpenCV · PiCamera2 · GPIO · NumPy              ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
@@ -149,15 +153,13 @@ status      : 🟢 Open to Internships
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  WEB-CONTROLLED SURVEILLANCE ROBOT         STATUS: STREAMING    ║
-║  ───────────────────────────────────────────────────────────── ║
-║                                                                   ║
+║  ─────────────────────────────────────────────────────────────  ║
 ║  ARCHITECTURE:                                                    ║
 ║  ├─ 🌐  Flask Backend  →  Web server + streaming endpoint        ║
 ║  ├─ 📹  OpenCV         →  Video capture + MJPEG stream           ║
 ║  ├─ 🕹️   GPIO Control  →  Motor driver (L298N) interface        ║
 ║  ├─ 📡  Wi-Fi          →  Remote navigation interface            ║
 ║  └─ 🍓  Raspberry Pi   →  Full system orchestration              ║
-║                                                                   ║
 ║  STACK: Python · Flask · OpenCV · GPIO · HTML/CSS/JS            ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
@@ -177,15 +179,13 @@ status      : 🟢 Open to Internships
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  STUDENT MANAGEMENT REST API           STATUS: ENDPOINTS LIVE   ║
-║  ───────────────────────────────────────────────────────────── ║
-║                                                                   ║
+║  ─────────────────────────────────────────────────────────────  ║
 ║  ARCHITECTURE:                                                    ║
 ║  ├─ 🟢  Spring Boot  →  Application framework + dependency DI   ║
 ║  ├─ 📊  Spring JPA   →  ORM + Many-to-Many relationships        ║
 ║  ├─ 🗄️   MySQL        →  Relational data persistence             ║
 ║  ├─ 🔄  DTO Pattern  →  Clean API response layer separation      ║
 ║  └─ 📄  REST CRUD    →  Full resource lifecycle management       ║
-║                                                                   ║
 ║  STACK: Java · Spring Boot · MySQL · Spring JPA · REST API      ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
@@ -219,6 +219,17 @@ status      : 🟢 Open to Internships
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMallick01&bg_color=0d1117&color=00f5ff&line=7c3aed&point=a855f7&area=true&hide_border=true" width="750"/>
+
+<br/>
+
+<!-- SNAKE CONTRIBUTION ANIMATION — the coolest element from your friend's profile -->
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaMallick01/AdityaMallick01/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -344,6 +355,10 @@ print(aditya)
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=ADITYA.OS%20v2026%20%E2%80%94%20ALWAYS%20BUILDING&fontSize=14&fontColor=475569&fontAlignY=65&animation=twinkling)
+⭐ *If any of my projects helped you — a star goes a long way!*
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00f5ff&fontAlignY=65&animation=twinkling)
 
 </div>
