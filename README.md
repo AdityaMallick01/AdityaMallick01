@@ -261,10 +261,10 @@ AI FOUNDATION
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-one-tau-34.vercel.app/api?username=AdityaMallick01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaMallick01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=94a3b8&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
 </td>
 <td>
-<img src="https://github-readme-stats-one-tau-34.vercel.app/api/top-langs/?username=AdityaMallick01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=94a3b8&border_radius=10&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMallick01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=94a3b8&border_radius=10&langs_count=8" height="180"/>
 </td>
 </tr>
 </table>
