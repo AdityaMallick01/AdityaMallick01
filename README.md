@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:020010,40:0d0030,100:020010&height=240&section=header&text=ADITYA%20MALLICK&fontSize=72&fontColor=00f5ff&fontAlignY=52&fontAlign=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20IoT%20Architect&descAlignY=70&descAlign=38&descSize=17&animation=twinkling&stroke=7c3aed&strokeWidth=3)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=🤖+Building+AI-powered+systems...;⚙️+Engineering+Spring+Boot+backends...;🦾+Automating+with+Raspberry+Pi+%2B+OpenCV...;🌐+Crafting+REST+APIs+%26+microservices...;🔬+Exploring+Computer+Vision+%26+ML...;🚀+Full+Stack+%2B+AI+Engineer+in+the+making...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=🤖+Building+AI-powered+systems+with+Java+%26+Python...;⚙️+Spring+Boot+microservices+%2B+JWT+Security...;🦾+Raspberry+Pi+%2B+OpenCV+%2B+6-DOF+Robotic+Arms...;🔬+YOLO+%2F+CNNs+%2F+Real-time+Computer+Vision...;🚀+CGPA+9.20+·+Oracle+OCI+Certified+·+Open+to+Internships...)](https://git.io/typing-svg)
 
 <br>
 
@@ -11,6 +11,18 @@
 ![CGPA](https://img.shields.io/badge/CGPA-9.20%2F10-00f5ff?style=for-the-badge&labelColor=0d1117)
 ![Year](https://img.shields.io/badge/YEAR-3rd%20B.Tech%20CSE-a855f7?style=for-the-badge&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Internships-22c55e?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 CREDENTIALS AT A GLANCE
+
+| ☁️ Oracle Cloud AI Foundations | 🤖 Stanford ML (DeepLearning.AI) | 🎨 Adobe Hackathon Round 1 | ☁️ Google Cloud Agentic AI Day |
+|:---:|:---:|:---:|:---:|
+| OCI 2025 Associate | Supervised ML · 2024 | Qualified · 2025 | Participant · 2025 |
 
 </div>
 
@@ -51,17 +63,22 @@ name        : Aditya Mallick
 alias       : AdityaMallick01
 location    : Bhubaneswar, Odisha, India 🇮🇳
 university  : SOA University — B.Tech CSE
-cgpa        : 9.20 / 10.0
+cgpa        : 9.20 / 10.0  ← Top of class
 year        : Third Year (2023–Present)
-focus:
-  - Java Full Stack Development
-  - AI / Machine Learning
-  - Computer Vision (OpenCV)
-  - Embedded Systems & IoT
-  - Raspberry Pi Robotics
-  - REST API Architecture
-goal        : Full Stack + AI Engineer
-status      : 🟢 Open to Internships
+
+what_i_build:
+  - Robotic arms that see + weigh + sort objects autonomously
+  - Spring Boot REST APIs with JWT auth & JPA relationships
+  - Live-streaming surveillance robots controlled via browser
+  - AI pipelines fusing sensor data + computer vision
+
+currently_learning:
+  - React.js · Docker · Kubernetes
+  - YOLO real-time detection · CNNs
+  - LLM APIs & Agentic AI workflows
+
+status      : 🟢 Actively seeking internships (Summer/Fall 2025)
+contact     : adityamallick002@gmail.com
 ```
 
 <br clear="right"/>
@@ -90,7 +107,7 @@ status      : 🟢 Open to Internships
 ### ◈ AI · ML · COMPUTER VISION
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### ◈ EMBEDDED · IoT
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
@@ -101,12 +118,13 @@ status      : 🟢 Open to Internships
 
 ### ◈ TOOLS & PLATFORMS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### ◈ SKILL ICONS
-<img src="https://skillicons.dev/icons?i=java,python,js,spring,flask,django,mysql,opencv,raspberrypi,linux,git,github,vscode,tensorflow,numpy&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,js,spring,flask,django,mysql,opencv,raspberrypi,linux,docker,git,github,vscode,tensorflow&theme=dark&perline=8" />
 
 </div>
 
@@ -121,50 +139,42 @@ status      : 🟢 Open to Internships
 ### 🤖 PROJECT ALPHA — Intelligent Object Sorting System
 > `[ COMPUTER VISION · WEIGHT SENSING · ROBOTIC AUTOMATION ]`
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  INTELLIGENT OBJECT SORTING SYSTEM              STATUS: ONLINE   ║
-║  ─────────────────────────────────────────────────────────────  ║
-║  SUBSYSTEMS:                                                      ║
-║  ├─ 📷  PiCamera2      →  Real-time object capture               ║
-║  ├─ 🧠  OpenCV         →  Shape detection + classification        ║
-║  ├─ ⚖️   HX711 (ADC)   →  24-bit precision weight sensing        ║
-║  ├─ 🦾  PCA9685 (I2C)  →  6-DOF robotic arm control             ║
-║  └─ 🍓  Raspberry Pi   →  Central control unit                   ║
-║  STACK: Python · OpenCV · PiCamera2 · GPIO · NumPy              ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+> **The problem:** Manual object sorting is slow, error-prone, and doesn't scale. This system sees, weighs, and places objects — fully autonomously.
 
-- 🔬 **Dual-parameter sorting** — shape + weight classified simultaneously
-- 📡 Real-time image processing pipeline with sub-second latency
-- ⚙️ Calibrated load cell with 24-bit ADC for precision weight sensing
-- 🦾 Automated 6-DOF pick-and-place robotic arm via I²C protocol
+| Component | Role |
+|:---|:---|
+| 📷 PiCamera2 | Real-time object capture |
+| 🧠 OpenCV | Shape detection + classification |
+| ⚖️ HX711 (24-bit ADC) | Precision weight sensing |
+| 🦾 PCA9685 (I²C) | 6-DOF robotic arm control |
+| 🍓 Raspberry Pi | Central control unit |
+
+**Key outcomes:**
+- 🔬 Dual-parameter sorting — shape + weight classified in a single pipeline
+- 📡 Sub-second image processing latency with real-time feedback
+- ⚙️ Calibrated load cell achieving gram-level precision
+- 🦾 Smooth automated pick-and-place via I²C servo control
 
 [![View Project](https://img.shields.io/badge/Automated--Object--Sorter-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01/Automated-Object-Sorter)
 
 ---
 
-### 🤖 PROJECT BETA — Web-Controlled Surveillance Robot
+### 📡 PROJECT BETA — Web-Controlled Surveillance Robot
 > `[ IoT · FLASK BACKEND · LIVE VIDEO STREAMING ]`
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  WEB-CONTROLLED SURVEILLANCE ROBOT         STATUS: STREAMING    ║
-║  ─────────────────────────────────────────────────────────────  ║
-║  ARCHITECTURE:                                                    ║
-║  ├─ 🌐  Flask Backend  →  Web server + streaming endpoint        ║
-║  ├─ 📹  OpenCV         →  Video capture + MJPEG stream           ║
-║  ├─ 🕹️   GPIO Control  →  Motor driver (L298N) interface        ║
-║  ├─ 📡  Wi-Fi          →  Remote navigation interface            ║
-║  └─ 🍓  Raspberry Pi   →  Full system orchestration              ║
-║  STACK: Python · Flask · OpenCV · GPIO · HTML/CSS/JS            ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+> **The problem:** Physical surveillance requires someone to be on-site. This robot streams live video and accepts control commands from any browser on the network.
 
-- 📺 Live **MJPEG video streaming** over local network
-- 🌐 Custom Flask web interface for real-time robot control
-- 🔄 Bidirectional motor control with direction switching
-- 🛡️ Stable remote navigation with responsive web controls
+| Component | Role |
+|:---|:---|
+| 🌐 Flask Backend | Web server + MJPEG streaming endpoint |
+| 📹 OpenCV | Video capture + frame encoding |
+| 🕹️ GPIO / L298N | Motor driver interface |
+| 📡 Wi-Fi | Remote navigation channel |
+
+**Key outcomes:**
+- 📺 Stable MJPEG video stream accessible from any device on LAN
+- 🌐 Custom control dashboard with bidirectional motor control
+- 🔄 Direction switching with responsive low-latency web controls
 
 [![View Project](https://img.shields.io/badge/Surveillance--Robot-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01/Surveillance-Robot-Pi)
 
@@ -173,26 +183,74 @@ status      : 🟢 Open to Internships
 ### ⚡ PROJECT GAMMA — Student Management REST API
 > `[ JAVA FULL STACK · SPRING BOOT · MYSQL · JPA ]`
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  STUDENT MANAGEMENT REST API           STATUS: ENDPOINTS LIVE   ║
-║  ─────────────────────────────────────────────────────────────  ║
-║  ARCHITECTURE:                                                    ║
-║  ├─ 🟢  Spring Boot  →  Application framework + dependency DI   ║
-║  ├─ 📊  Spring JPA   →  ORM + Many-to-Many relationships        ║
-║  ├─ 🗄️   MySQL        →  Relational data persistence             ║
-║  ├─ 🔄  DTO Pattern  →  Clean API response layer separation      ║
-║  └─ 📄  REST CRUD    →  Full resource lifecycle management       ║
-║  STACK: Java · Spring Boot · MySQL · Spring JPA · REST API      ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+> **The problem:** A well-architected backend isn't just CRUD — it's clean separation, safe exposure, and scalable design. This project demonstrates production-grade patterns.
 
-- 🔗 Many-to-Many student-course relationship with join table
-- 📑 Full **CRUD + pagination + search** via Spring Data JPA + Swagger docs
-- 🏗️ DTO pattern cleanly separating entity from API response layer
-- 🔒 Data exposure prevention via response projection
+| Layer | Technology |
+|:---|:---|
+| 🟢 Framework | Spring Boot 3.2 + Dependency Injection |
+| 📊 ORM | Spring Data JPA + Hibernate |
+| 🗄️ Database | MySQL 8.0 |
+| 🔄 API Layer | DTO Pattern + REST CRUD + Swagger |
+
+**Key outcomes:**
+- 🔗 Many-to-Many student-course relationships via JPA join tables
+- 📑 Pagination + search via Spring Data + full Swagger/OpenAPI docs
+- 🔒 DTO projection prevents accidental entity data exposure
+- 🏗️ Designed to extend with Spring Security + JWT (in progress)
 
 [![View Project](https://img.shields.io/badge/student--management--api-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaMallick01/student-management-api)
+
+---
+
+<div align="center">
+
+## 🧠 DUAL JOURNEY — LIVE PROGRESS TRACKER
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java Full Stack Path
+
+```
+JAVA FOUNDATION
+├── ✅ Core Java (OOP, Collections)
+├── ✅ JDBC & SQL Fundamentals
+├── ✅ Spring Boot Framework
+├── ✅ Spring Data JPA & Hibernate
+├── ✅ REST API Design & CRUD
+├── ✅ DTO Pattern & Relationships
+├── 🔄 Spring Security (JWT)      ← NOW
+├── 🔄 Microservices Architecture
+├── 🔄 Docker & Kubernetes
+└── 📌 React.js Frontend Integration
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI · ML · Computer Vision Path
+
+```
+AI FOUNDATION
+├── ✅ Python for ML (NumPy, Pandas)
+├── ✅ OpenCV (Image Processing)
+├── ✅ PiCamera2 + Video Pipelines
+├── ✅ Object Detection (Shape/Color)
+├── ✅ Weight Sensing + Sensor Fusion
+├── 🔄 Supervised ML (Stanford/DL.AI) ← NOW
+├── 🔄 Deep Learning Basics (CNNs)
+├── 🔄 YOLO Real-time Detection
+└── 📌 LLMs & Agentic AI Systems
+```
+
+</td>
+</tr>
+</table>
+
+> `✅ Completed` &nbsp;·&nbsp; `🔄 In Progress` &nbsp;·&nbsp; `📌 Coming Next`
+
+</div>
 
 ---
 
@@ -231,70 +289,6 @@ status      : 🟢 Open to Internships
 
 ---
 
-## 🧠 DUAL JOURNEY — PROGRESS TRACKER
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ Java Full Stack Path
-
-```
-JAVA FOUNDATION
-├── ✅ Core Java (OOP, Collections)
-├── ✅ JDBC & SQL Fundamentals
-├── ✅ Spring Boot Framework
-├── ✅ Spring Data JPA & Hibernate
-├── ✅ REST API Design & CRUD
-├── ✅ DTO Pattern & Relationships
-├── 🔄 Spring Security (JWT)
-├── 🔄 Microservices Architecture
-└── 📌 React.js Frontend Integration
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI · ML · Computer Vision Path
-
-```
-AI FOUNDATION
-├── ✅ Python for ML (NumPy, Pandas)
-├── ✅ OpenCV (Image Processing)
-├── ✅ PiCamera2 + Video Pipelines
-├── ✅ Object Detection (Shape/Color)
-├── ✅ Weight Sensing + Sensor Fusion
-├── 🔄 Supervised ML (Coursera/Stanford)
-├── 🔄 Deep Learning Basics (CNNs)
-├── 🔄 YOLO Real-time Detection
-└── 📌 LLMs & Agentic AI Systems
-```
-
-</td>
-</tr>
-</table>
-
-> `✅ Completed` &nbsp;·&nbsp; `🔄 In Progress` &nbsp;·&nbsp; `📌 Coming Next`
-
----
-
-<div align="center">
-
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
-
-| 🏅 | Achievement | Details | Year |
-|:---:|:---|:---|:---:|
-| ☁️ | Oracle Cloud AI Foundations | OCI 2025 Associate Certified | 2025 |
-| 🤖 | Supervised Machine Learning | Stanford Online + DeepLearning.AI | 2024 |
-| ☕ | Core Java Training | Lakshya Institute of Technology | 2024 |
-| 🎨 | Adobe India Hackathon | Qualified Round 1 | 2025 |
-| ☁️ | Google Cloud Agentic AI Day | Hackathon Participant | 2025 |
-| 📚 | SOA University | CGPA 9.20 / 10.0 | Ongoing |
-
-</div>
-
----
-
 ## 🛰️ CURRENT MISSION LOG
 
 ```python
@@ -303,28 +297,40 @@ class AdityaMallick:
         self.name       = "Aditya Mallick"
         self.university = "SOA University, Bhubaneswar"
         self.cgpa       = 9.20
+        self.certs      = ["Oracle OCI AI Foundations 2025", "Stanford ML · DeepLearning.AI"]
 
     @property
     def currently_building(self):
         return [
             "Spring Boot microservices with Spring Security + JWT",
-            "Deep Learning models for real-time detection (YOLO)",
-            "AI-integrated REST APIs using Python + Java",
-            "Advanced IoT automation with sensor fusion",
+            "Deep Learning pipeline for real-time object detection (YOLO)",
+            "AI-integrated REST APIs bridging Python inference + Java serving",
+            "Advanced IoT automation with multi-sensor fusion on Raspberry Pi",
         ]
 
     @property
     def currently_learning(self):
         return [
-            "React.js for Full Stack frontend integration",
-            "Docker & Kubernetes for containerized deployments",
-            "LLM APIs & Agentic AI workflows",
-            "Advanced Computer Vision (CNNs, YOLO, SAM)",
+            "React.js — Full Stack frontend integration",
+            "Docker & Kubernetes — containerized deployments",
+            "LLM APIs & Agentic AI — the next frontier",
+            "CNNs + YOLO + SAM — advanced Computer Vision",
         ]
 
     @property
     def open_to(self):
-        return ["Internships", "Open Source Contributions", "Collaborations"]
+        return [
+            "Internships (SDE / AI / ML / IoT)",
+            "Open Source Contributions",
+            "Research Collaborations",
+        ]
+
+    def contact(self):
+        return {
+            "email"    : "adityamallick002@gmail.com",
+            "linkedin" : "linkedin.com/in/aditya-mallick-b76a64376",
+            "portfolio": "adityamallick01.github.io/aditya-mallick-portfolio",
+        }
 
     def __repr__(self):
         return "Building the future, one commit at a time. 🚀"
@@ -347,11 +353,11 @@ print(aditya)
 
 <br>
 
-> 💬 *"I'm always open to exciting projects, internship opportunities, and open-source collaborations. Let's build something remarkable."*
+> 💬 *"I build things that bridge the physical and digital — robots that see, backends that scale, and AI that acts. If you're working on something ambitious, let's talk."*
 
 <br>
 
-⭐ *If any of my projects helped you — a star goes a long way!*
+⭐ *Found a project useful? A star means the world and takes one second.*
 
 <br>
 
